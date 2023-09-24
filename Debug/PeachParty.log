@@ -1,0 +1,5 @@
+﻿  Actor.cpp
+C:\Users\shulx\OneDrive\Documents\UCLA Freshman\CS32\Proj3-PeachParty\PeachParty\Actor.cpp(372,39): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  StudentWorld.cpp
+  Generating Code...
+  PeachParty.vcxproj -> C:\Users\shulx\OneDrive\Documents\UCLA Freshman\CS32\Proj3-PeachParty\Debug\PeachParty.exe
